@@ -1,0 +1,9 @@
+com\reservashotel\model\Reserva.class
+com\reservashotel\dao\ReservaDAO.class
+com\reservashotel\model\Hotel.class
+com\reservashotel\model\Usuario.class
+com\reservashotel\controller\ControllerServlet.class
+com\reservashotel\dao\HotelDAO.class
+com\reservashotel\model\Habitacion.class
+com\reservashotel\dao\JPAUtil.class
+com\reservashotel\dao\UsuarioDAO.class
